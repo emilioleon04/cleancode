@@ -1,6 +1,6 @@
 package seleccion;
 
-public class Masajista extends Persona {
+public class Masajista extends Persona { // cada clase debe tener su propio archivo 
     
     protected String profesion;
     protected int aniosExperiencia;

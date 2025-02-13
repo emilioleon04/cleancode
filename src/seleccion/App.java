@@ -1,4 +1,4 @@
-package seleccion;
+package seleccion; // nombre de paquetes en lowecase
 
 public class App {
     public static void main(String[] args) {
